@@ -1,0 +1,14 @@
+x64/
+Debug/
+CMakeFiles/
+
+bin/
+
+*.vcxproj
+
+*.filters
+
+*.user
+
+CMakeCache.txt
+cmake_install.cmake

@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+D:/c++/listf/listf/CMakeFiles/3.27.0-rc3/CMakeCCompiler.cmake
+D:/c++/listf/listf/CMakeFiles/3.27.0-rc3/CMakeCXXCompiler.cmake
+D:/c++/listf/listf/CMakeFiles/3.27.0-rc3/CMakeRCCompiler.cmake
+D:/c++/listf/listf/CMakeFiles/3.27.0-rc3/CMakeSystem.cmake
+D:/c++/listf/listf/CMakeLists.txt
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeCInformation.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Compiler/MSVC-C.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Compiler/MSVC-CXX.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Compiler/MSVC.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-MSVC-C.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows-MSVC.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Platform/Windows.cmake
+D:/softw/cmake-3.27.0-rc3-windows-x86_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake

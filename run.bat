@@ -1,4 +1,8 @@
-echo off
+@echo off
+rmdir /s /q build
+mkdir build
+cd  build
+cmake ..
 cmake --build .
-start \c++\listf\listf\bin\Debug\list.exe
+start bin\Debug\list.exe
 

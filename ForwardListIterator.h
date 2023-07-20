@@ -2,6 +2,7 @@
 #include <iostream>
 #include "ForwardList.h"
 
+Node<int> a;
 
 template<class T>
 class ForwardListIterator
